@@ -1,0 +1,6 @@
+{
+    "dbhost" : "your-server-here.us-east-1.rds.amazonaws.com",
+    "dbname" : "DBNAME",
+    "dbuser" :"sa",
+    "dbpassword" :"password"
+}
